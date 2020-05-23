@@ -87,6 +87,7 @@ const changeMurderer = function() {
     murderer = 'Mrs. White';
   }
   plotTwist();
+
 }
 
 const declareMurderer = function () {
@@ -109,6 +110,7 @@ const changeMurderer = function() {
       murderer = 'Miss Scarlet';
     }
     unexpectedOutcome();
+
   }
   plotTwist();
 }
